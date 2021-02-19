@@ -1,0 +1,16 @@
+{
+  "name": "youtubeplaylistdownloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.4.5",
+    "ytpl": "^2.0.5"
+  }
+}
